@@ -1,0 +1,32 @@
+_repo: The-Public-School-Word-book-A-conribution-to-to-a-historical-glossary-of-words-phrases-and-tu__53336
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Farmer, John Stephen
+    aliases:
+    - Farmer, J. S. (John Stephen)
+    - Farmer, John S.
+    birthdate: 1854
+    deathdate: 1916
+    gutenberg_agent_id: '2762'
+    url: http://www.gutenberg.org/2009/agents/2762
+description: ''
+gutenberg_issued: '2016-10-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53336'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PE'
+- !lcsh 'English language -- Great Britain -- Slang -- Dictionaries'
+- !lcsh 'Endowed public schools (Great Britain)'
+- !lcsh 'Students -- Great Britain -- Language'
+- GITenberg
+title: "The Public School Word-book\r\nA conribution to to a historical glossary of\
+  \ words phrases and turns of expression obsolete and in current use peculiar to\
+  \ our great public schools together with some that have been or are modish at the\
+  \ universities"
+url: http://www.gutenberg.org/ebooks/53336
